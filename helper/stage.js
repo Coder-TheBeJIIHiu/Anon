@@ -22,7 +22,7 @@ class SceneLoader {
     this.scenes.forEach((scene, index) => {
         logger.info(`${index + 1}. Сцена ${scene[index].id} успешно запущен`)
     });
-
+    console.log(flatedScenes)
     return new Scenes.Stage(flatedScenes);
   }
 }

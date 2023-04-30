@@ -71,3 +71,129 @@
 {"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T10:30:59.836Z"}
 {"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T10:31:32.916Z"}
 {"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T10:31:49.355Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T10:36:14.173Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T10:36:26.985Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:56:22.700Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:56:26.080Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:56:29.731Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:56:33.054Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:56:46.385Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:56:48.605Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:56:55.599Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:56:58.651Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:57:00.770Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:57:02.553Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:58:03.071Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T11:58:15.749Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:00:59.751Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:00:59.754Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:01:03.439Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:01:03.442Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:01:08.740Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:01:08.783Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:02:34.282Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:02:34.321Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:02:40.855Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:02:40.857Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:03:04.729Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:03:04.732Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:03:26.459Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:03:26.461Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:03:28.926Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:03:28.929Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:03:31.182Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:03:31.187Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:03:33.532Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:03:33.535Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:03:36.710Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:03:36.713Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:03:40.038Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:03:40.041Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:03:41.168Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:03:41.171Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:04:04.228Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:05:09.474Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: INSERT INTO users (telegram_id, name, age, gender, description, phone) VALUES (?, ?, ?, ?, ?, ?)\nPARAMS: 6153453766,Радмир,19,Я гей,male,\n","timestamp":"2023-04-30T12:05:09.763Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:05:10.107Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:05:13.827Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:05:13.831Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:07:00.591Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:07:00.596Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:10:18.939Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:10:18.943Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:10:20.744Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:10:20.747Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:11:08.747Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:12:07.766Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:12:07.769Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:12:16.574Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:12:16.577Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:12:22.602Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:12:22.606Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:12:27.535Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:12:27.538Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:12:34.810Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:12:34.813Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:12:37.843Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:12:37.848Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:12:45.314Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:12:50.298Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:12:50.301Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:13:02.045Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:13:02.050Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:13:03.726Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:13:03.729Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:13:08.365Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:13:08.368Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:13:15.140Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:13:15.171Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:15:47.150Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:15:47.154Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:15:53.429Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:15:53.432Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:16:03.158Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:16:21.561Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:16:21.571Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:17:50.346Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:17:50.352Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:17:53.007Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:17:53.011Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:18:08.328Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:18:08.350Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:18:14.043Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:18:14.048Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:18:15.388Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:18:15.391Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:18:21.123Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:18:21.129Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:18:27.613Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:18:27.617Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:18:28.767Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:18:28.770Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:18:36.013Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:18:36.016Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:18:41.400Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:18:46.683Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:23:23.142Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:23:23.145Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:26:34.075Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:26:34.101Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:29:43.336Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:29:43.338Z"}
+{"level":"info","message":"3. Сцена female успешно запущен","timestamp":"2023-04-30T12:29:43.339Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:29:47.045Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:29:47.050Z"}
+{"level":"info","message":"3. Сцена female успешно запущен","timestamp":"2023-04-30T12:29:47.052Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:30:08.912Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:30:08.915Z"}
+{"level":"info","message":"3. Сцена female успешно запущен","timestamp":"2023-04-30T12:30:08.915Z"}
+{"level":"info","message":"1. Сцена main успешно запущен","timestamp":"2023-04-30T12:30:11.643Z"}
+{"level":"info","message":"2. Сцена age успешно запущен","timestamp":"2023-04-30T12:30:11.646Z"}
+{"level":"info","message":"3. Сцена female успешно запущен","timestamp":"2023-04-30T12:30:11.647Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:30:20.603Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:30:37.404Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: INSERT INTO users (telegram_id, name, age, gender, description, phone) VALUES (?, ?, ?, ?, ?, ?)\nPARAMS: 6153453766,Радмир,19,ыаыатыа,male,\n","timestamp":"2023-04-30T12:30:38.055Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:30:38.526Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM queue\nPARAMS: undefined\n","timestamp":"2023-04-30T12:30:42.247Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: SELECT * FROM users WHERE telegram_id = ?\nPARAMS: 6153453766\n","timestamp":"2023-04-30T12:30:42.404Z"}
+{"level":"info","message":"\nSQL request completed successfully on 1st attempt.\nSQL: INSERT INTO queue (telegram_id, gender) VALUES (?, ?)\nPARAMS: 6153453766,ыаыатыа\n","timestamp":"2023-04-30T12:30:42.715Z"}
