@@ -1,0 +1,30 @@
+# Папки и файлы, которые не нужно отслеживать в Git
+node_modules/
+coverage/
+build/
+dist/
+
+# Файлы с настройками
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Логи и временные файлы
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+*.swp
+*.bak
+
+# Кэш и папки, создаваемые различными инструментами
+.pnp/
+.pnp.js
+.cache/
+.idea/
+.vscode/
+.nyc_output/
+jest.config.js
