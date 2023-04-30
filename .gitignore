@@ -3,6 +3,7 @@ node_modules/
 coverage/
 build/
 dist/
+log/
 
 # Файлы с настройками
 .env
@@ -15,7 +16,6 @@ dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-log/
 *.log
 *.swp
 *.bak
